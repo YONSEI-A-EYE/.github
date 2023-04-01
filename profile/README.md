@@ -5,7 +5,7 @@
   - [Mobile](https://github.com/YONSEI-A-EYE/mobile) : Kangseok Yoon
   - [ML](https://github.com/YONSEI-A-EYE/ML) : Yoojin Song
   - UI Design : SeungYeon Lim 
-- **Demo Video** : [Youtube Link](https://www.youtube.com/watch?v=lsfbOz3PCso)
+- **Demo Video** : [Youtube Link](https://www.youtube.com/watch?v=aAQa41O0Kt0)
 
 
 ## Service Introduction
