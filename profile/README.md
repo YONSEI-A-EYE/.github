@@ -6,7 +6,7 @@
   - [ML](https://github.com/YONSEI-A-EYE/ML) : Yoojin Song
   - UI Design : SeungYeon Lim 
 - **Demo Video** : [Youtube Link](https://www.youtube.com/watch?v=aAQa41O0Kt0)
-
+- **Landing Page** : [Link](https://yonsei-a-eye.github.io/Landing_Page/index.html)
 
 ## Service Introduction
 ![001](https://user-images.githubusercontent.com/76640742/228591614-4d63217a-eb06-4916-8a83-858627f1878c.png)
