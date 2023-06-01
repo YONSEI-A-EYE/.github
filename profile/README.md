@@ -39,6 +39,7 @@ Parenting advice enables parents to understand their child's temperament and tak
 
 ### Service Architecture
 <img width="919" alt="service_architecture" src="https://github.com/YONSEI-A-EYE/.github/assets/76640742/fdad2d50-0c98-423e-b185-4120d33c9918">
+
 - **Login** <br>
 Self-login using the JWT token has been implemented, and the primary caregiver and secondary caregiver can connect account information through Verification Code.
 
