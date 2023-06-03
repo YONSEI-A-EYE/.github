@@ -4,7 +4,7 @@
   - [Server](https://github.com/YONSEI-A-EYE/Server) : Yongbin Kim
   - [Mobile](https://github.com/YONSEI-A-EYE/mobile) : Kangseok Yoon
   - [ML](https://github.com/YONSEI-A-EYE/ML) : Yoojin Song
-  - UI Design : SeungYeon Lim 
+  - UI Design : Seungyeon Lim 
 - **Demo Video** : [Youtube Link](https://www.youtube.com/watch?v=aAQa41O0Kt0)
 - **Landing Page** : [Link](https://yonsei-a-eye.github.io/Landing_Page/index.html)
 
