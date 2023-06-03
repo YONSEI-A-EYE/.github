@@ -21,11 +21,11 @@ The baby monitor is installed in the child's room or bed so caregivers can alway
 <br>
 
 - **Emotion Diary**<br>
-A diary allows you to understand your emotions at a distance. It will help not to be overwhelmed by emotions. Rumination, which is the repetitive and obsessive thinking of negative emotions, will also be prevented. A study suggests that naming negative emotions is effective in controlling emotions. The diary, which is objective and subjective at the same time, will help users manage emotions. The diary tracks the user's emotional changes for a long time. We expect to see increase in positive emotions. Also, the secondary caregiver can add comments to the primary caregiver's diary. Not only reading, but actively commenting on it, secondary caregiver will understand difficulties of the primary caregiver and support them. The number of comments from secondary caregiver can be used as an index of interest in the primary caregiver and child care itself.
+Write a dairy and we will analyze your emotion. A diary allows you to understand your emotions at a distance. It will help not to be overwhelmed by emotions. Also, the secondary caregiver can add comments to the primary caregiver's diary. The number of comments from secondary caregiver can be used as an index of interest in the primary caregiver and child care itself.
 <br>
 
 - **Parenting Advice**<br>
-Parenting advice enables parents to understand their child's temperament and take care of them. Understanding temperament helps caregivers better accept children’s individual differences. Caregivers can learn how to help children express their preferences, desires, and feelings appropriately. Also, Caregivers can also avoid blaming themselves or a child for reactions that are normal for that particular child. Guardians can anticipate issues before they occur and avoid frustrating themselves and the child by using approaches that do not match temperament.
+Did you know that each and every baby has unique temperaments? Test your child's temperament with 9 questions! According to the result, we offer personalized parenting advice. It enables parents to understand their child's temperament and take care of them. Tell A-EYE about your parenting concerns. A-EYE will provide parenting solutions based on your child's age and temperament. A-EYE can provide perfect parenting solutions for our child with Google's generative AI, Bard.
 
 ### User Interface 
 ![004](https://user-images.githubusercontent.com/76640742/228591672-f44764e5-c3d9-4ad3-80e8-441fb0b186e9.png)
