@@ -45,7 +45,7 @@ Self-login using the JWT token has been implemented, and the primary caregiver a
 
 - **Google Compute Engine - API server** <br>
 It is an architecture in which A flutter receives data from a server through REST API with Spring Boot API Server.
-The natural language api analyzes the received user's diary content and returns the score and magnitude values. When the score and magnitude for each sentence are returned to the spring server, it is processed as a result of the entire sentence and then the emotions are classified and handed over to the client. MySQL was used as the database.
+The natural language api analyzes the received user's diary content and returns the score and magnitude values. When the score and magnitude for each sentence are returned to the spring server, it is processed as a result of the entire sentence and then the emotions are classified and handed over to the client. MySQL was used as the database. Bard API takes information of a child and situation as a prompt and generates advice.
 
 - **Google Compute Engine - Detection Server** <br>
 When a Raspberry Pi camera for real-time video streaming detects a fall by importing a mediapipe library, the fast api (detection server) delivers a fall detection message to the firebase cloud messaging(FCM). After receiving the message, FCM delivers a push message to the client, Flutter, and the client notifies the user.
