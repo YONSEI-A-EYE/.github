@@ -25,7 +25,7 @@ Write a dairy and we will analyze your emotion. A diary allows you to understand
 <br>
 
 - **Parenting Advice**<br>
-Did you know that each and every baby has unique temperaments? Test your child's temperament with 9 questions! According to the result, we offer personalized parenting advice. It enables parents to understand their child's temperament and take care of them. Tell A-EYE about your parenting concerns. A-EYE will provide parenting solutions based on your child's age and temperament. A-EYE can provide perfect parenting solutions for our child with Google's generative AI, Bard.
+Did you know that each and every baby has unique temperaments? Test your child's temperament with 9 questions! According to the result, we offer personalized parenting advice. It enables parents to understand their child's temperament and take care of them. Tell A-EYE about your parenting concerns. A-EYE will provide parenting solutions based on your child's age and temperament. A-EYE can provide perfect parenting solutions for our child with generative AI.
 
 ### User Interface 
 ![004](https://user-images.githubusercontent.com/76640742/228591672-f44764e5-c3d9-4ad3-80e8-441fb0b186e9.png)
