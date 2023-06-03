@@ -5,7 +5,7 @@
   - [Mobile](https://github.com/YONSEI-A-EYE/mobile) : Kangseok Yoon
   - [ML](https://github.com/YONSEI-A-EYE/ML) : Yoojin Song
   - UI Design : Seungyeon Lim 
-- **Demo Video** : [Youtube Link](https://www.youtube.com/watch?v=aAQa41O0Kt0)
+- **Demo Video** : [Youtube Link](https://www.youtube.com/watch?v=Ur5YIcF4LZc)
 - **Landing Page** : [Link](https://yonsei-a-eye.github.io/Landing_Page/index.html)
 
 ## Service Introduction
@@ -35,7 +35,8 @@ Did you know that each and every baby has unique temperaments? Test your child's
 ![007](https://user-images.githubusercontent.com/76640742/228591729-dafbe8ff-6f10-477e-a4f7-71912df21b90.png)
 
 ### Service Diagram
-![008](https://user-images.githubusercontent.com/76640742/228591746-35ec991f-9b72-4482-ab90-6526939e02f4.png)
+<img width="7099" alt="diagram_final" src="https://github.com/YONSEI-A-EYE/.github/assets/76640742/1bad1f23-5cbf-417d-9b8e-30e52ce47a24">
+
 
 ### Service Architecture
 <img width="919" alt="service_architecture" src="https://github.com/YONSEI-A-EYE/.github/assets/76640742/fdad2d50-0c98-423e-b185-4120d33c9918">
